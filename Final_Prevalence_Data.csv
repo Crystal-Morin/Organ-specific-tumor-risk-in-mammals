@@ -1,0 +1,976 @@
+﻿Species;Order;Life_Expectancy;Body_Mass;RDI;N_Death;Necropsy_Effort;Animal;Vertebrate;Invertebrate;Herptile;Mammal;Group;Occurence;Proportion;Prevalence
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Digestive system;2;0.111111111;0.002094241
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Circulatory system;0;0;0
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Uro-genital system;2;0.111111111;0.002094241
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Skin;0;0;0
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Endocrine system;3;0.166666667;0.003141361
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;All Organs;16;NA;0.016753927
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Lymphatic system;9;0.5;0.009424084
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Nervous system;1;0.055555556;0.00104712
+Acinonyx_jubatus;Carnivora;3833.74627;42.55007214;345;955;0.361256545;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Respiratory system;1;0.055555556;0.00104712
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;2;0.2;0.004140787
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;6;NA;0.01242236
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;1;0.1;0.002070393
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;3;0.3;0.00621118
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;2;0.2;0.004140787
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;1;0.1;0.002070393
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;1;0.1;0.002070393
+Addax_nasomaculatus;Artiodactyla;3704.388698;110.6330566;109;483;0.225672878;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;7;NA;0.009915014
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;2;0.181818182;0.002832861
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;0.090909091;0.001416431
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;4;0.363636364;0.005665722
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.090909091;0.001416431
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;0.090909091;0.001416431
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;1;0.090909091;0.001416431
+Aepyceros_melampus;Artiodactyla;2861.501157;48.14976489;230;706;0.325779037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;1;0.090909091;0.001416431
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;2;0.25;0.003552398
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;1;0.125;0.001776199
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;0.125;0.001776199
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;5;NA;0.008880995
+Ailurus_fulgens;Carnivora;3953.735984;5.97539102;154;563;0.273534636;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;4;0.5;0.007104796
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;9;NA;0.008928571
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;0.083333333;0.000992063
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;3;0.25;0.00297619
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;4;0.333333333;0.003968254
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;3;0.25;0.00297619
+Ammotragus_lervia;Artiodactyla;4683.626601;67.43510168;262;1008;0.259920635;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;0.083333333;0.000992063
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;1;0.001730104
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Antidorcas_marsupialis;Artiodactyla;2377.822403;29.85093572;231;578;0.399653979;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.001730104
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;2;0.166666667;0.00129199
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;3;0.25;0.001937984
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;2;0.166666667;0.00129199
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;5;NA;0.003229974
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;3;0.25;0.001937984
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;2;0.166666667;0.00129199
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Antilope_cervicapra;Artiodactyla;3179.198739;31.03672848;333;1548;0.215116279;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Lymphatic system;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Nervous system;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Circulatory system;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Bone;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Skin;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Endocrine system;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;All Organs;3;NA;0.0036452
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Diaphragm;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Fat tissues;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Respiratory system;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Exocrine system;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Uro-genital system;0;0;0
+Aonyx_cinerea;Carnivora;3855.993832;3.30467994;226;823;0.274605103;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Digestive system;3;1;0.0036452
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;2;0.142857143;0.003025719
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;5;0.357142857;0.007564297
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;9;NA;0.013615734
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;5;0.357142857;0.007564297
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;2;0.142857143;0.003025719
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Axis_axis;Artiodactyla;4492.834549;59.1386303;124;661;0.187594554;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;2;0.142857143;0.004494382
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;7;0.5;0.015730337
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;2;0.142857143;0.004494382
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;1;0.071428571;0.002247191
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.071428571;0.002247191
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;0.071428571;0.002247191
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;11;NA;0.024719101
+Bison_bison;Artiodactyla;5624.907659;632.0540589;113;445;0.253932584;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Digestive system;3;0.75;0.006651885
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;All Organs;4;NA;0.00886918
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Bone;0;0;0
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Skin;1;0.25;0.002217295
+Callimico_goeldii;Primates;3794.703229;0.563427119;96;451;0.21286031;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Fat tissues;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Exocrine system;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Diaphragm;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Skin;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Lymphatic system;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Respiratory system;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Uro-genital system;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;All Organs;1;NA;0.002277904
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Nervous system;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Circulatory system;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Digestive system;1;1;0.002277904
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Endocrine system;0;0;0
+Callithrix_geoffroyi;Primates;4586.249656;0.462954593;112;439;0.255125285;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Bone;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Fat tissues;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Uro-genital system;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Exocrine system;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Skin;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Endocrine system;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Bone;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Respiratory system;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Nervous system;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Lymphatic system;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Circulatory system;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Diaphragm;0;0;0
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;All Organs;1;NA;0.001102536
+Callithrix_jacchus;Primates;7805.432506;0.381712797;202;907;0.222712238;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Digestive system;1;1;0.001102536
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.001577287
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;1;0.333333333;0.001577287
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;0.333333333;0.001577287
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;1;0.333333333;0.001577287
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Capra_nubiana;Artiodactyla;2607.925061;40.90068104;309;634;0.487381703;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Lymphatic system;2;0.5;0.002290951
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Skin;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Bone;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;All Organs;4;NA;0.004581901
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Endocrine system;2;0.5;0.002290951
+Cebuella_pygmaea;Primates;2712.320983;0.146233553;214;873;0.24513173;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;0.25;0.001231527
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;0.25;0.001231527
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;1;0.25;0.001231527
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;2;NA;0.002463054
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Cervus_nippon;Artiodactyla;3699.371491;68.94809047;195;812;0.240147783;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;1;0.25;0.001231527
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Nervous system;1;0.142857143;0.004048583
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Uro-genital system;2;0.285714286;0.008097166
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Skin;0;0;0
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Lymphatic system;3;0.428571429;0.012145749
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Circulatory system;0;0;0
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Endocrine system;1;0.142857143;0.004048583
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Respiratory system;0;0;0
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Fat tissues;0;0;0
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;All Organs;6;NA;0.024291498
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Bone;0;0;0
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Digestive system;0;0;0
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Diaphragm;0;0;0
+Chrysocyon_brachyurus;Carnivora;3442.882728;25.90193245;95;247;0.384615385;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Exocrine system;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;0.333333333;0.003012048
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;1;0.333333333;0.003012048
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;0.333333333;0.003012048
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Colobus_guereza;Primates;5274.078274;11.8848313;114;332;0.343373494;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;3;NA;0.009036145
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;0.142857143;0.002207506
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;2;0.285714286;0.004415011
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;2;0.285714286;0.004415011
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;6;NA;0.013245033
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;2;0.285714286;0.004415011
+Connochaetes_taurinus;Artiodactyla;3583.020264;194.8615759;160;453;0.353200883;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Skin;0;0;0
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Lymphatic system;3;0.272727273;0.011764706
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Nervous system;1;0.090909091;0.003921569
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Uro-genital system;0;0;0
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;All Organs;7;NA;0.02745098
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Circulatory system;3;0.272727273;0.011764706
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Endocrine system;2;0.181818182;0.007843137
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Digestive system;2;0.181818182;0.007843137
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Cuon_alpinus;Carnivora;3258.613915;19.91538377;78;255;0.305882353;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Respiratory system;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;5;1;0.010224949
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;5;NA;0.010224949
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Cynomys_ludovicianus;Rodentia;1953.515153;1.010691929;79;489;0.161554192;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.00110742
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;0.5;0.00110742
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;1;0.5;0.00110742
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Dama_dama;Artiodactyla;4318.786229;54.80931371;166;903;0.183831672;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;0.333333333;0.003676471
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;2;0.666666667;0.007352941
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;3;NA;0.011029412
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Damaliscus_pygargus;Artiodactyla;2603.838482;71.25643461;99;272;0.363970588;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;1;0.000625
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.000625
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Dolichotis_patagonum;Rodentia;2448.602889;7.62980942;397;1600;0.248125;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;3;NA;0.009063444
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;1;0.5;0.003021148
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;0.5;0.003021148
+Elaphurus_davidianus;Artiodactyla;3368.054968;192.4057369;84;331;0.253776435;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;4;NA;0.005763689
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.25;0.001440922
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;1;0.25;0.001440922
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;2;0.5;0.002881844
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Equus_quagga;Perissodactyla;6095.411419;294.2260821;201;694;0.28962536;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;0.1;0.003115265
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.1;0.003115265
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;1;0.1;0.003115265
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;4;0.4;0.012461059
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;0.1;0.003115265
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;2;0.2;0.00623053
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Eudorcas_thomsonii;Artiodactyla;2690.158466;20.47313621;93;321;0.289719626;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;6;NA;0.018691589
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;3;0.428571429;0.003452244
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;5;NA;0.00575374
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.142857143;0.001150748
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;3;0.428571429;0.003452244
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Giraffa_camelopardalis;Artiodactyla;4947.266334;911.5972618;240;869;0.276179517;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;0;NA;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Heterocephalus_glaber;Rodentia;5158.808523;0.04787511;78;998;0.078156313;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.003076923
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Hippotragus_niger;Artiodactyla;3085.550282;200.550514;94;325;0.289230769;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;1;0.003076923
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;0.076923077;0.001234568
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;0.076923077;0.001234568
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;10;NA;0.012345679
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;5;0.384615385;0.00617284
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.076923077;0.001234568
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;1;0.076923077;0.001234568
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;4;0.307692308;0.004938272
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Hydrochoerus_hydrochaeris;Rodentia;2580.072404;49.47285543;219;810;0.27037037;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;1;0.142857143;0.002717391
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;2;0.285714286;0.005434783
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;2;0.285714286;0.005434783
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;1;0.142857143;0.002717391
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;0.142857143;0.002717391
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;4;NA;0.010869565
+Kobus_ellipsiprymnus;Artiodactyla;4056.733245;162.897057;92;368;0.25;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.001757469
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;1;0.001757469
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Kobus_leche;Artiodactyla;3798.05321;83.31797146;196;569;0.344463972;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;1;0.041666667;0.003322259
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;2;0.083333333;0.006644518
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;8;0.333333333;0.026578073
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;18;NA;0.059800664
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;13;0.541666667;0.043189369
+Kobus_megaceros;Artiodactyla;3409.883209;76.26516359;86;301;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;0.055555556;0.000662252
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;7;0.388888889;0.004635762
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;1;0.055555556;0.000662252
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;1;0.055555556;0.000662252
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.055555556;0.000662252
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;3;0.166666667;0.001986755
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;4;0.222222222;0.002649007
+Lemur_catta;Primates;6437.895827;2.865012327;378;1510;0.250331126;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;17;NA;0.011258278
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Fat tissues;0;0;0
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Lymphatic system;1;0.25;0.003225806
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Digestive system;2;0.5;0.006451613
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Skin;0;0;0
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;All Organs;5;NA;0.016129032
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Circulatory system;0;0;0
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Exocrine system;0;0;0
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Nervous system;0;0;0
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Endocrine system;0;0;0
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Respiratory system;1;0.25;0.003225806
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Bone;0;0;0
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Uro-genital system;0;0;0
+Leontopithecus_chrysomelas;Primates;3803.270111;0.751352752;91;310;0.293548387;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Diaphragm;0;0;0
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Skin;0;0;0
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Fat tissues;0;0;0
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Diaphragm;0;0;0
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Uro-genital system;1;0.166666667;0.00304878
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Exocrine system;0;0;0
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;All Organs;5;NA;0.015243902
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Digestive system;3;0.5;0.009146341
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Circulatory system;0;0;0
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Respiratory system;0;0;0
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Bone;0;0;0
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Endocrine system;0;0;0
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Lymphatic system;1;0.166666667;0.00304878
+Leontopithecus_rosalia;Primates;4262.033969;0.679324055;113;328;0.344512195;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Nervous system;1;0.166666667;0.00304878
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Digestive system;1;0.333333333;0.004166667
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Uro-genital system;0;0;0
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Circulatory system;0;0;0
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Respiratory system;0;0;0
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Nervous system;0;0;0
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;All Organs;3;NA;0.0125
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Endocrine system;1;0.333333333;0.004166667
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Skin;0;0;0
+Leptailurus_serval;Carnivora;5710.746538;11.91259785;87;240;0.3625;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Lymphatic system;1;0.333333333;0.004166667
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Lymphatic system;0;0;0
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Digestive system;2;0.125;0.003430532
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Endocrine system;6;0.375;0.010291595
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Skin;2;0.125;0.003430532
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Circulatory system;0;0;0
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Nervous system;0;0;0
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;All Organs;12;NA;0.02058319
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Uro-genital system;6;0.375;0.010291595
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Lycaon_pictus;Carnivora;3060.465984;29.10467467;169;583;0.289879931;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Respiratory system;0;0;0
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Bone;0;0;0
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Respiratory system;1;0.25;0.00295858
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Uro-genital system;1;0.25;0.00295858
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Digestive system;1;0.25;0.00295858
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Skin;0;0;0
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;All Organs;1;NA;0.00295858
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Lymphatic system;1;0.25;0.00295858
+Macaca_fuscata;Primates;7490.840002;11.92500604;90;338;0.266272189;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;0;NA;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Macropus_parma;Diprotodontia;1855.936826;4.379577202;82;2924;0.028043776;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;4;1;0.002156334
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;4;NA;0.002156334
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Macropus_rufogriseus;Diprotodontia;3992.204076;13.53486132;517;1855;0.278706199;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.003412969
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;1;0.003412969
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Madoqua_kirkii;Artiodactyla;2421.863444;5.010867665;83;293;0.283276451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Skin;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;All Organs;0;NA;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Mandrillus_sphinx;Primates;5722.212021;24.20574021;89;634;0.140378549;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Bone;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.005235602
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;1;0.005235602
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Muntiacus_muntjak;Artiodactyla;4287.591722;23.78929407;81;191;0.42408377;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;All Organs;3;NA;0.00365408
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Skin;0;0;0
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Digestive system;1;0.333333333;0.001218027
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Respiratory system;1;0.333333333;0.001218027
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Bone;0;0;0
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Lymphatic system;1;0.333333333;0.001218027
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Nasua_nasua;Carnivora;4076.045261;5.0922432;220;821;0.267965895;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;5;0.714285714;0.012468828
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;1;0.142857143;0.002493766
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;7;NA;0.017456359
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.142857143;0.002493766
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Odocoileus_virginianus;Artiodactyla;3867.439795;45.12477927;143;401;0.356608479;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.001261034
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;NA;0
+Oryx_dammah;Artiodactyla;4911.946708;138.5664595;180;793;0.226986129;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;NA;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.003968254
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;1;0.003968254
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Pan_troglodytes;Primates;11579.35699;59.95121157;82;252;0.325396825;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Nervous system;0;0;0
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Endocrine system;1;0.038461538;0.000968992
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Circulatory system;3;0.115384615;0.002906977
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Lymphatic system;10;0.384615385;0.009689922
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Skin;0;0;0
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Respiratory system;7;0.269230769;0.006782946
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;All Organs;25;NA;0.024224806
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Digestive system;4;0.153846154;0.003875969
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Uro-genital system;1;0.038461538;0.000968992
+Panthera_leo;Carnivora;5968.062712;161.9437788;344;1032;0.333333333;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Digestive system;0;0;0
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Uro-genital system;1;0.125;0.002352941
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Nervous system;1;0.125;0.002352941
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Respiratory system;0;0;0
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Skin;0;0;0
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Lymphatic system;5;0.625;0.011764706
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Circulatory system;0;0;0
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;All Organs;7;NA;0.016470588
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Panthera_pardus;Carnivora;5574.601071;43.31004893;147;425;0.345882353;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Endocrine system;1;0.125;0.002352941
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Endocrine system;4;0.173913043;0.004052685
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Respiratory system;1;0.043478261;0.001013171
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Skin;2;0.086956522;0.002026342
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Nervous system;1;0.043478261;0.001013171
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Digestive system;2;0.086956522;0.002026342
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Circulatory system;0;0;0
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Uro-genital system;1;0.043478261;0.001013171
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Lymphatic system;12;0.52173913;0.012158055
+Panthera_tigris;Carnivora;5597.294237;121.4432224;339;987;0.343465046;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;All Organs;20;NA;0.020263425
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Uro-genital system;1;0.0625;0.003610108
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Lymphatic system;3;0.1875;0.010830325
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Respiratory system;1;0.0625;0.003610108
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Digestive system;3;0.1875;0.010830325
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Skin;0;0;0
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Endocrine system;4;0.25;0.014440433
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Nervous system;4;0.25;0.014440433
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;All Organs;15;NA;0.054151625
+Panthera_uncia;Carnivora;4665.262159;36.93637525;105;277;0.379061372;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Circulatory system;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Skin;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Digestive system;1;1;0.001620746
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;All Organs;1;NA;0.001620746
+Papio_hamadryas;Primates;5590.701908;20.44851615;79;617;0.128038898;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Bone;0;0;0
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.029411765;0.001626016
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;2;0.058823529;0.003252033
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;8;0.235294118;0.01300813
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;1;0.029411765;0.001626016
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;22;0.647058824;0.035772358
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Phascolarctos_cinereus;Diprotodontia;2907.657069;8.45;105;615;0.170731707;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;25;NA;0.040650407
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;3;0.25;0.009966777
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;5;0.416666667;0.016611296
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;8;NA;0.026578073
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;3;0.25;0.009966777
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Potamochoerus_porcus;Artiodactyla;3765.208985;74.04827345;79;301;0.262458472;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;1;0.083333333;0.003322259
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;1;0.166666667;0.0016
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;1;0.166666667;0.0016
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;0.166666667;0.0016
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;2;0.333333333;0.0032
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;7;NA;0.0112
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Procavia_capensis;Hyracoidea;1923.46473;3.340708422;132;625;0.2112;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;1;0.166666667;0.0016
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Digestive system;0;0;0
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Respiratory system;1;0.125;0.002232143
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Circulatory system;0;0;0
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Skin;1;0.125;0.002232143
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Endocrine system;4;0.5;0.008928571
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Bone;0;0;0
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Lymphatic system;1;0.125;0.002232143
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Fat tissues;0;0;0
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Uro-genital system;1;0.125;0.002232143
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;All Organs;7;NA;0.015625
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Diaphragm;0;0;0
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Exocrine system;0;0;0
+Procyon_lotor;Carnivora;4680.910349;6.684346927;99;448;0.220982143;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Nervous system;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.001650165
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;1;0.001650165
+Pteropus_rodricensis;Chiroptera;3736.255142;0.353684613;177;606;0.292079208;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Skin;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Lymphatic system;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Endocrine system;1;0.25;0.005263158
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Nervous system;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Digestive system;3;0.75;0.015789474
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Respiratory system;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Circulatory system;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;All Organs;3;NA;0.015789474
+Puma_concolor;Carnivora;5038.447528;50.94219561;86;190;0.452631579;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Primary or secondary food item;Uro-genital system;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;0;NA;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Rangifer_tarandus;Artiodactyla;3224.091233;107.4235735;150;325;0.461538462;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.004444444
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;NA;0
+Rucervus_duvaucelii;Artiodactyla;3480.599697;137.9537845;85;225;0.377777778;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;NA;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;2;NA;0.004514673
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;1;0.5;0.002257336
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;1;0.5;0.002257336
+Rucervus_eldii;Artiodactyla;3362.591902;86.49935182;153;443;0.34537246;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Exocrine system;0;0;0
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Diaphragm;0;0;0
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Respiratory system;0;0;0
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Bone;0;0;0
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Fat tissues;0;0;0
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Circulatory system;0;0;0
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Skin;1;0.066666667;0.00102145
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Lymphatic system;2;0.133333333;0.002042901
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Uro-genital system;0;0;0
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Nervous system;5;0.333333333;0.005107252
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;All Organs;14;NA;0.014300306
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Digestive system;6;0.4;0.006128703
+Saguinus_oedipus;Primates;4331.193779;0.566816964;261;979;0.26659857;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Endocrine system;1;0.066666667;0.00102145
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Skin;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Bone;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Digestive system;1;1;0.001605136
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;All Organs;1;NA;0.001605136
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Saimiri_boliviensis;Primates;4879.110141;0.935348808;213;623;0.341894061;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;All Organs;3;NA;0.005309735
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Digestive system;2;0.285714286;0.003539823
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Uro-genital system;2;0.285714286;0.003539823
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Bone;1;0.142857143;0.001769912
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Circulatory system;1;0.142857143;0.001769912
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Lymphatic system;1;0.142857143;0.001769912
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Saimiri_sciureus;Primates;6216.015657;0.922537462;151;565;0.267256637;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Skin;0;0;0
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Diaphragm;0;0;0
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Skin;2;0.125;0.003294893
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Fat tissues;0;0;0
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Bone;0;0;0
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Circulatory system;1;0.0625;0.001647446
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Digestive system;2;0.125;0.003294893
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Respiratory system;1;0.0625;0.001647446
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Uro-genital system;3;0.1875;0.004942339
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Exocrine system;0;0;0
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Endocrine system;1;0.0625;0.001647446
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Lymphatic system;5;0.3125;0.008237232
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;Nervous system;1;0.0625;0.001647446
+Sarcophilus_harrisii;Dasyuromorphia;2056.219222;8;78;607;0.128500824;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Primary or secondary food item;All Organs;13;NA;0.021416804
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Nervous system;1;0.03030303;0.000341997
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Respiratory system;8;0.242424242;0.002735978
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Uro-genital system;3;0.090909091;0.001025992
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Digestive system;16;0.484848485;0.005471956
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Circulatory system;1;0.03030303;0.000341997
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Bone;1;0.03030303;0.000341997
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Skin;3;0.090909091;0.001025992
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;All Organs;27;NA;0.009233926
+Suricata_suricatta;Carnivora;3301.400271;1.04116378;777;2924;0.265731874;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;1;1;0.001879699
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;1;NA;0.001879699
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Tragelaphus_angasii;Artiodactyla;2740.084707;79.01699454;152;532;0.285714286;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;2;0.333333333;0.005405405
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;5;NA;0.013513514
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Tragelaphus_eurycerus;Artiodactyla;3055.300788;250.0068488;108;370;0.291891892;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;4;0.666666667;0.010810811
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;9;NA;0.009193054
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;1;0.125;0.00102145
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;1;0.125;0.00102145
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;3;0.375;0.003064351
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;2;0.25;0.002042901
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Tragelaphus_oryx;Artiodactyla;4095.467004;373.0235703;235;979;0.240040858;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;1;0.125;0.00102145
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Tragelaphus_spekii;Artiodactyla;2881.584582;69.53580575;239;2924;0.081737346;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;0;NA;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;0;NA;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Tragelaphus_strepsiceros;Artiodactyla;2691.443326;193.4618708;161;907;0.177508269;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Fat tissues;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Respiratory system;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Diaphragm;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Bone;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Uro-genital system;1;0.090909091;0.002277904
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Exocrine system;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Skin;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Lymphatic system;2;0.181818182;0.004555809
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Circulatory system;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Digestive system;8;0.727272727;0.018223235
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Nervous system;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Endocrine system;0;0;0
+Varecia_variegata;Primates;6463.850092;3.80938186;141;439;0.32118451;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;Rarely or Never;All Organs;10;NA;0.022779043
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Lymphatic system;4;0.153846154;0.013245033
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;All Organs;20;NA;0.066225166
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Digestive system;13;0.5;0.043046358
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Uro-genital system;1;0.038461538;0.003311258
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Circulatory system;1;0.038461538;0.003311258
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Diaphragm;0;0;0
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Exocrine system;0;0;0
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Respiratory system;3;0.115384615;0.009933775
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Fat tissues;0;0;0
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Skin;2;0.076923077;0.006622517
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Endocrine system;1;0.038461538;0.003311258
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Nervous system;0;0;0
+Vulpes_zerda;Carnivora;3751.685029;1.362992889;93;302;0.30794702;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Primary or secondary food item;Bone;1;0.038461538;0.003311258
