@@ -28,5 +28,5 @@ Included variables are as follows:
 	  Prevalence 	      - Per species, proportion of tumor cases that were diagnosed in the corresponding organ system, = corresponding organ system occurrence / N_death. The variable takes values between 0 and 1.
 
 
-### Please note that in order to reproduce all statistical analyses, CMR data from Vincze et al. Nature (2021) are needed. This data can be dowloaded from :
+### Please note that in order to reproduce all statistical analyses, Cancer Mortality Risk data from Vincze et al. Nature (2021) is needed. This data can be dowloaded from :
 [https://github.com/OrsolyaVincze/VinczeEtal2021Nature/blob/main/data.csv]
