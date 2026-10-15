@@ -16,7 +16,7 @@ library(readr)
 library(dplyr)
 library(stringr)
 
-Prev <- read_delim("Final_Prevalence_Data.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
+Prev <- read.csv("Final_Prevalence_Data.csv",sep=";")
 
 phy <- read.nexus("mammalian_tree.tre")
 phy <- drop.tip(phy, phy$tip.label[!phy$tip.label%in%unique(Prev$Species)])
@@ -25,7 +25,31 @@ phy_matrix <- ape::vcv.phylo(phy, corr = TRUE)
 
 
 ################################################################################
+### CORRELATION WITH VINCZE ET AL (2021) 
+
+
+#FOR THIS PART, PLEASE DOWNLOAD VINCZE ET AL'S CMR ESTIMATION DATA 
+#FROM https://github.com/OrsolyaVincze/VinczeEtal2021Nature/blob/main/data.csv
+CMR_data <- read_csv("Vincze_2022_CMR.csv")
+
+Prevalence_General <- subset(Prev, Group=="All Organs")
+
+Comp_data <- merge(subset(Prevalence_General, select=c("Species","Prevalence")),
+                   subset(CMR_data, select=c("Species","CMR")),
+                   by="Species", all.x=TRUE)
+Comp_data <- na.omit(Comp_data)
+
+row.names(Comp_data) <- Comp_data$Species
+Comp_data <- Comp_data[,-1]
+
+result = cor.test(Comp_data$Prevalence, Comp_data$CMR, method = "spearman")
+print(result)
+
+
+################################################################################
 ### PHYLOGENETIC SIGNAL AND ORDER COMPARISON
+
+rm(CMR_data,Comp_data,Prevalence_General,result)
 
 phylosig_ordercomp <- function(Prevdata, phylotree){
   dataPrev <- Prevdata[!is.na(Prevdata$Vertebrate),]; row.names(dataPrev) <- dataPrev$Species
@@ -49,23 +73,20 @@ phylosig_ordercomp <- function(Prevdata, phylotree){
   print(as.data.frame(pairs(emmeans(mx,~Order))))
 }
 
+#Prev2 <- subset(Prev, Species!="Phascolarctos_cinereus") #add to run without Koala
+
 # TO REPETE FOR EVERY STUDIED ORGAN SYSTEMS
-phylosig_ordercomp(subset(Prev, Group == "All Organs" & Species != "Phascolarctos_cinereus"),phy)
-#phylosig_ordercomp(subset(Prev, Group == "All Organs"),phy)
+phylosig_ordercomp(subset(Prev, Group == "All Organs"),phy)
 
 
 ################################################################################
 ### BAYESIAN REGRESSIONS (DIET AND PETO'S PARADOX)
 
-levels_diet <- function(data){
-  cols <- c("Animal", 'Invertebrate', "Vertebrate", "Herptile", "Mammal")
-  for (col in cols) {
-    data[[col]] <- factor(data[[col]], levels=c("Rarely or Never","Primary or secondary food item"))
-  }
-  data
-}
-
-Prev <- levels_diet(Prev)
+Prev$Animal<- factor(Prev$Animal, levels= c("Rarely or never", "Primarily food item"))
+Prev$Vertebrate<- factor(Prev$Vertebrate, levels= c("Rarely or never", "Primarily food item"))
+Prev$Invertebrate<- factor(Prev$Invertebrate, levels= c("Rarely or never", "Primarily food item"))
+Prev$Herptile<- factor(Prev$Herptile, levels= c("Rarely or never", "Primarily food item"))
+Prev$Mammal<- factor(Prev$Mammal, levels= c("Rarely or never", "Primarily food item"))
 
 bmrs_stat <- function(data){
   priors <- default_prior(Occurence | trials(N_Death) ~ log(Life_Expectancy) + log(Body_Mass) + Necropsy_Effort
@@ -166,16 +187,16 @@ bmrs_stat <- function(data){
   
 }
 
+#Prev2 <- subset(Prev, Species!="Phascolarctos_cinereus") #add to run without Koala
 
 # TO REPETE FOR EVERY STUDIED ORGAN SYSTEMS
-bmrs_stat(subset(Prev, Group == "All Organs" & Species != "Phascolarctos_cinereus"))
-#bmrs_stat(subset(Prev, Group == "All Organs"))
+bmrs_stat(subset(Prev, Group == "All Organs"))
 
 
 ################################################################################
 ### XI TEST FOR TUMOR PROPORTION ANALYZE
 
-Prevalence_Group <- subset(Prev, Group!="All Organs" & Species!="Phascolarctos_cinereus")
+Prevalence_Group <- subset(Prev, Group!="All Organs")
 
 sp <- unique(Prevalence_Group$Species)
 occ <- c()
@@ -213,22 +234,103 @@ chisq.test(Group_Abundance)
 
 
 ################################################################################
-### CORRELATION WITH VINCZE ET AL (2021) 
+### ICM AND CMR PGLS REGRESSIONS
 
+# Summary function GLS
+sumGLS <- function(model){ 
+  su <- as.data.frame(summary(model)$tTable)
+  su[,1:3] <- round(su[,1:3],2); su[,4] <- round(su[,4],4)
+  su[,1] <- paste(su[,1],'_(', su[,2],')', sep='')
+  su <- su[,c(1,3,4)]
+  x <- nrow(su)
+  #su[x+1,1] <- paste("ShaP=",round(as.numeric(unlist(shapiro.test(resid(model)))[[2]][1]),4), sep="")
+  su[x+1,2] <- paste("AIC=", round(AIC(model),2), sep="")
+  su[x+1,3] <- paste("n=", length(resid(model)), sep='')
+  su[x+1,1] <-paste('lambda=',round(as.numeric(model[[1]])[1], 2), sep='') # put lambda value in bottom right corner
+  row.names(su)[nrow(su)] <- "ModelStats"
+  return(su)
+}
 
-#FOR THIS PART, PLEASE DOWNLOAD VINCZE ET AL'S CMR ESTIMATION DATA 
-#FROM https://github.com/OrsolyaVincze/VinczeEtal2021Nature/blob/main/data.csv
-CMR_data <- read_csv("CMR_Data.csv")
+Statis_ICM <- function(PrevGroupsdata,phylotree){
+  Prev <- PrevGroupsdata
+  row.names(Prev) <- Prev$Species
+  
+  ### Association between cancer risk and diet animal content
+  # Models of non-zero prevalence in function of life expectancy, body mass and diet 
+  dataPrev <- Prev[!is.na(Prev$ICM),]; row.names(dataPrev) <- dataPrev$Species
+  phyPrev <- treedata(phylotree,dataPrev, warnings = FALSE)$phy
+  dataPrev$occurrence <- ifelse(dataPrev$ICM==0,0,1)
+  dataPrev <- dataPrev[as.character(phyPrev$tip.label), ] # organise data to follow same order as phylogeny
+  # Drop tips on tree:
+  phy_nonzeroPrev <- drop.tip(phyPrev, which(!dataPrev$occurrence==1))
+  # logistic data:
+  data_nonzeroPrev <- dataPrev[dataPrev$Species%in%phy_nonzeroPrev$tip.label, ] # organise data to follow same order as phylogeny
+  data_nonzeroPrev$ICM <- as.numeric(data_nonzeroPrev$ICM)
+  data_nonzeroPrev$Life_Expectancy <- as.numeric(data_nonzeroPrev$Life_Expectancy)
+  data_nonzeroPrev$N_Death <- as.numeric(data_nonzeroPrev$N_Death)
+  data_nonzeroPrev$Body_Mass <- as.numeric(data_nonzeroPrev$Body_Mass)
+  
+  #models
+  DietMod0 <- gls(logit(ICM) ~  log(Body_Mass)+log(Life_Expectancy), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  DietMod1 <- gls(logit(ICM) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Animal), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  DietMod2 <- gls(logit(ICM) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Vertebrate), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  DietMod3 <- gls(logit(ICM) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Invertebrate), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  DietMod4 <- gls(logit(ICM) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Mammal), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=T), weights = ~1/log(N_Death))
+  DietMod5 <- gls(logit(ICM) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Herptile), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  
+  X <- as.data.frame(array(,c(1,3))); names(X) <- names(sumGLS(DietMod0))
+  print("Summary of the GLS models assessing for effect of diet animal content")
+  print(rbind(X, sumGLS(DietMod0), X, sumGLS(DietMod1),X, sumGLS(DietMod2), X, 
+              sumGLS(DietMod3),X, sumGLS(DietMod5), X, sumGLS(DietMod4)))
+}
 
-Prevalence_General <- subset(Prev, Group=="All Organs" & Species != "Phascolarctos_cinereus")
+Statis_CMR <- function(PrevGroupsdata,phylotree){
+  Prev <- PrevGroupsdata
+  row.names(Prev) <- Prev$Species
+  
+  ### Association between cancer risk and diet animal content
+  # Models of non-zero prevalence in function of life expectancy, body mass and diet 
+  dataPrev <- Prev[!is.na(Prev$CMR),]; row.names(dataPrev) <- dataPrev$Species
+  phyPrev <- treedata(phylotree,dataPrev, warnings = FALSE)$phy
+  dataPrev$occurrence <- ifelse(dataPrev$CMR==0,0,1)
+  dataPrev <- dataPrev[as.character(phyPrev$tip.label), ] # organise data to follow same order as phylogeny
+  # Drop tips on tree:
+  phy_nonzeroPrev <- drop.tip(phyPrev, which(!dataPrev$occurrence==1))
+  # logistic data:
+  data_nonzeroPrev <- dataPrev[dataPrev$Species%in%phy_nonzeroPrev$tip.label, ] # organise data to follow same order as phylogeny
+  data_nonzeroPrev$CMR <- as.numeric(data_nonzeroPrev$CMR)
+  data_nonzeroPrev$Life_Expectancy <- as.numeric(data_nonzeroPrev$Life_Expectancy)
+  data_nonzeroPrev$N_Death <- as.numeric(data_nonzeroPrev$N_Death)
+  data_nonzeroPrev$Body_Mass <- as.numeric(data_nonzeroPrev$Body_Mass)
+  
+  #models
+  DietMod0 <- gls(logit(CMR) ~  log(Body_Mass)+log(Life_Expectancy), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  DietMod1 <- gls(logit(CMR) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Animal), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  DietMod2 <- gls(logit(CMR) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Vertebrate), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  DietMod3 <- gls(logit(CMR) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Invertebrate), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  DietMod4 <- gls(logit(CMR) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Mammal), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=T), weights = ~1/log(N_Death))
+  DietMod5 <- gls(logit(CMR) ~  log(Body_Mass)+log(Life_Expectancy)+as.factor(Herptile), data_nonzeroPrev,
+                  cor=corPagel(0,phy_nonzeroPrev, form = ~Species, fixed=F), weights = ~1/log(N_Death))
+  
+  X <- as.data.frame(array(,c(1,3))); names(X) <- names(sumGLS(DietMod0))
+  print("Summary of the GLS models assessing for effect of diet animal content")
+  print(rbind(X, sumGLS(DietMod0), X, sumGLS(DietMod1),X, sumGLS(DietMod2), X, 
+              sumGLS(DietMod3),X, sumGLS(DietMod5), X, sumGLS(DietMod4)))
+}
 
-Comp_data <- merge(subset(Prevalence_General, select=c("Species","Prevalence")),
-                   subset(CMR_data, select=c("Species","CMR")),
-                   by="Species", all.x=TRUE)
-Comp_data <- na.omit(Comp_data)
+#Prev2 <- subset(Prev, Species!="Phascolarctos_cinereus") #add to run without Koala
 
-row.names(Comp_data) <- Comp_data$Species
-Comp_data <- Comp_data[,-1]
-
-result = cor.test(Comp_data$Prevalence, Comp_data$CMR, method = "spearman")
-print(result)
+# TO REPETE FOR EVERY STUDIED ORGAN SYSTEMS
+Statis_ICM(subset(Prev, Group=="All Organs"),phy)
+Statis_CMR(subset(Prev, Group=="All Organs"),phy)
